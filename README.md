@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JDMTheGreat
+- 👋 Hi, I’m Whitemage7614
 - 👀 I’m interested in: Cybersecurity and the tools that go along with it.
 - 🌱 I’m currently learning: How to use Github and scripting with Python.
 - 💞️ I’m looking to collaborate on: any security related projects like hacking tools
